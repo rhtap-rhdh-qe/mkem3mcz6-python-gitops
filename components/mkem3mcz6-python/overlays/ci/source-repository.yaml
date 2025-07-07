@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mkem3mcz6-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mkem3mcz6-python
